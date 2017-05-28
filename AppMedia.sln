@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIMedia", "APIMedia\APIMedia.csproj", "{8870032D-6A13-440C-9CDB-1DCDE72F6F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAPCLI", "MediaAPCLI\MediaAPCLI.csproj", "{3B5C4FA3-E773-41FA-9488-99486C45E887}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8870032D-6A13-440C-9CDB-1DCDE72F6F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8870032D-6A13-440C-9CDB-1DCDE72F6F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8870032D-6A13-440C-9CDB-1DCDE72F6F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8870032D-6A13-440C-9CDB-1DCDE72F6F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5C4FA3-E773-41FA-9488-99486C45E887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5C4FA3-E773-41FA-9488-99486C45E887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5C4FA3-E773-41FA-9488-99486C45E887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5C4FA3-E773-41FA-9488-99486C45E887}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

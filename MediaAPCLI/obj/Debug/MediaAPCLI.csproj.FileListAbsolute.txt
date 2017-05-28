@@ -1,0 +1,8 @@
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\bin\Debug\MediaAPCLI.exe.config
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\bin\Debug\MediaAPCLI.exe
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\bin\Debug\MediaAPCLI.pdb
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\bin\Debug\Newtonsoft.Json.dll
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\bin\Debug\Newtonsoft.Json.xml
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\obj\Debug\MediaAPCLI.exe
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\obj\Debug\MediaAPCLI.pdb
+c:\Users\cesarmorales\documents\visual studio 2015\Projects\AppMedia\MediaAPCLI\obj\Debug\MediaAPCLI.csprojResolveAssemblyReference.cache
